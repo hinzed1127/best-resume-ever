@@ -1,41 +1,38 @@
 /* #*/ export const PERSON = `
 name:
-  first: John
+  first: Daniel
   middle:
-  last: Doe
+  last: Hinze
 about: Hi, my name is John Doe. I"m just about the most boring type of person you could
        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
 position: Software Developer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1992
+  location: Decatur, IL
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
+- company: Sprout Social
+  position: Web Engineer
+  timeperiod: March 2017 - August 2018
+  description: I worked on Sprout's reporting features, creating rich yet simple reports giving users metrics and data for their various social media accounts.
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: Uptake
+  position: Software Engineer
+  timeperiod: January 2016 - February 2017
+  description: I worked on a data mapping tool for importing client data into Uptake's platform in a format suitable for consumption.
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: Uptake
+  position: Solutions Engineer
+  timeperiod: July 2015 - January 2016
+  description: Served a variety of functions, highlights included refinement of product feature definitions, as well as data wrangling client data for analysis by Uptake's data science team.
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-
 - degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+  timeperiod: September 2011 - May 2015
+  description: Engineering Physics (Computational Physics Concentration)
+  #include minors later
 
 # skill level goes 0 to 100
 skills:
@@ -59,12 +56,12 @@ knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
   (English and Klingon).
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: hinzed1127@gmail.com
+  phone: (217) 853-9270
+  street: 1608 E 34th St, Apt 1
+  city: Minneapolis, MN
+  website: danhinze.com
+  github: hinzed1127
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
 lang: en
 `
